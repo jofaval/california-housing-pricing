@@ -14,12 +14,14 @@
 1. [©️ Credits](#-credits)
 
 ## 📁 Data
+[↑ Back to the table](#table-of-contents)
 
 The data is available at the `sample_data` folder that is available with every Google Colab Notebook.
 
 Just in case, you could change the path to the data by using the .csv found in the [/data](./data) of this repository
 
 ## 📓 Description
+[↑ Back to the table](#table-of-contents)
 
 This is a beginner notebook, made to illustrate a more junior approach to a dataset's exploration, analysis and explanation.
 
@@ -28,6 +30,7 @@ It's an introduction, my introduction, to explaining conclusions and showcasing 
 So, what is there to expect from this project? Just a newbie explaining a couple of concepts and reaching to some sort of conclusions just by exploring the data and it's patterns.
 
 ## ✔️ Objectives
+[↑ Back to the table](#table-of-contents)
 
 In no specific order whatsoever:
 
@@ -47,6 +50,7 @@ As for the analysis, what were some of the main objectives?
 - Using supervised models to explain the conclusion, as to be able to justify the results.
 
 ## 🧱 Tech stack
+[↑ Back to the table](#table-of-contents)
 
 Python, that's it! R is a programming language that, as for the moment being, I have no experience with, even though it's powerful and broadly used, but I'd dare to say that no more than Python.
 
@@ -59,6 +63,7 @@ And one of the strongest points, if not the most, about Python, are it's librari
 - Tensorflow and Keras, the industry standard for Deep Learning, the way to go, not really, it's just that for now I don't have that many experience with PyTorch
 
 ## 💹 Algorithms
+[↑ Back to the table](#table-of-contents)
 
 After the exploration of the data, I concluded that Linear Regression with a Polynomial factor was the one that could predict the variable the best, so it is Polynomial Linear Regression that I wanted to use, but I did "try my luck" with a couple other algorithms, Supervised and Unsupervised.
 
@@ -67,12 +72,14 @@ RandomForest it's pure magic, it's incredible how it can get such as high score,
 Support Vector Machine Regressor was a welcomed surprised, it actually performed even better than the Polynomial Linear Regression, but it wasn't as consistent as I expected, it required some features to exist to get a high score, and a certain amount of data to actually perform well, which was expected.
 
 ## 📊 Visualization
+[↑ Back to the table](#table-of-contents)
 
 Being honest, visualizations I feel that weren't the strongest point in my take. But I did try to plot important information in a way that simplified the concept I was trying to get across.
 
 Scatter was the plot I used the most, it helped represent density and identify more easibly where the sparsing of the data happened, plus, with high volumes of unsorted data that do not follow a pattern, is an easier way to plot that with lines while protraying a similar concept.
 
 ## 🤓 Conclusions
+[↑ Back to the table](#table-of-contents)
 
 With the models used, supervised and unsupervised, I managed to explain 60% - 80% of the dependant variable, which is great but I'm pretty sure it could be better. Still, I'm happy with that score.
 
@@ -81,5 +88,6 @@ It is true that unsupervised is, generally speaking, more powerful than supervsi
 As for the value, it was concluded that the location, and, most importantly, the median income of the surrounding houses, are what actually matter the most to determine the price of a house, way more than the bedrooms, or rooms that it has, or the population around.
 
 ## ©️ Credits
+[↑ Back to the table](#table-of-contents)
 
 All of the credits for the datasets goes to Pace, R. Kelley, and Ronald Barry, "Sparse Spatial Autoregressions," Statistics and Probability Letters, Volume 33, Number 3, May 5 1997, p. 291-297. And to Google, but any more details [at this link](https://developers.google.com/machine-learning/crash-course/california-housing-data-description?hl=es_419)
