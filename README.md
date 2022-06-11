@@ -1,6 +1,6 @@
 # Californa Housing Pricing #
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jofaval/california-housing-pricing/blob/master/California_Housing_Pricing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jofaval/california-housing-pricing/blob/master/notebook.ipynb)
 
 ## Table of contents
 
